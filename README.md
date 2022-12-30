@@ -24,4 +24,5 @@ dot_specVersion{name="parity-polkadot",version="0.6.0",chain="Kusama CC1",build=
 dot_rpc_healthy{name="parity-polkadot",version="0.6.0",chain="Kusama CC1",build="0.6.0-d2dac086-x86_64-linux-gnu"} 1
 ```
 
-
+test:
+curl localhost:8000/metrics
